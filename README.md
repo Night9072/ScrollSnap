@@ -13,7 +13,7 @@ Scrollsnap is an addon-theme for BetterDiscord that snaps the scrollbar to messa
 ## Want to use this theme in your own?
 Please make sure you do **not** copy the source, but rather use the following: 
 ```css
-@import url("bdthe.me/themes/scrollsnap/");
+@import url("https://bdthe.me/themes/scrollsnap/");
 ```
 This ensures that the theme can be kept up-to-date, and that it belongs to it's rightful owner.
 

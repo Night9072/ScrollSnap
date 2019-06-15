@@ -1,0 +1,10 @@
+//META{"name":"Scroll Snap","description":"Scrolling will snap perfectly to the end of messages, servers, channels, and users","author":"Night 👻#9072","version":"1.0","website":"https://bdthe.me/"}*//
+@import url("https://bdthe.me/themes/scrollsnap/");
+:root {
+	/* 	snap types: proximity, mandatoryy */
+	--snap-type: proximity;
+}
+/*
+	proximity: scrolling will only snap when deemed a "good" moment.
+	mandatory: scrolling will always snap, even if you scroll to the center of a big message.
+*/
